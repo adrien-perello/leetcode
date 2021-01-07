@@ -3,7 +3,7 @@
 </p>
 
 
-### <a name="content"></a> Content
+### <a name="content"></a> &#10140; Content
 
 #### [By difficulty](#difficulty)
 - [Easy](#easy)  
