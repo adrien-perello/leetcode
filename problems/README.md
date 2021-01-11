@@ -22,11 +22,10 @@
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) <i class="fa fa-lock"></i>| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0108/108_solution_python.ipynb)|Easy| Tree | Recursion, DFS, BFS |
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) <i class="fa fa-lock"></i>| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0110/110_solution_python.ipynb)|Easy| Tree | Recursion, DFS, BFS |
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) <i class="fa fa-lock"></i>| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0111/111_solution_python.ipynb)|Easy| Tree | Recursion, DFS, BFS |
-|0112|[Path Sum](https://leetcode.com/problems/path-sum/) <i class="fa fa-lock"></i>| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0112/112_solution_python.ipynb)| Easy| Tree | Recursion, DFS, BFS |
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/) &#xf017; <i class="fa fa-lock"></i>| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0112/112_solution_python.ipynb)| Easy| Tree | Recursion, DFS, BFS |
 
 
 [//]: # " Copy Paste to add a line:
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)|Easy|  | Binary  |
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)|Easy|  | Binary  |"
 
-COMEBACK TO 101& 104 after solving 102 level traversal
-"
+[//]: # " COMEBACK TO 101& 104 after solving 102 level traversal"
