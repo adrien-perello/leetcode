@@ -36,6 +36,7 @@
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0202/202_solution_python.ipynb)| Easy | Hash Table | N/A |
 |0204|[Count Primes](https://leetcode.com/problems/count-primes/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0204/204_solution_python.ipynb)| Easy | N/A | N/A |
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0206/206_solution_python.ipynb)| Easy | Linked List | Recursion, Two Pointers |
+|0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0217/217_solution_python.ipynb)| Easy | Array, Hash Table | Sort |
 
 
 [//]: # " Copy Paste to add a line:
