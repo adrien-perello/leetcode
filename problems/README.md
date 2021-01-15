@@ -28,7 +28,7 @@
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0122/122_solution_python.ipynb)|Easy| Array | Greedy  |
 |0136|[Single Number](https://leetcode.com/problems/single-number/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0136/136_solution_python.ipynb)|Easy| Hash Table  | Bit Manipulation |
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0141/141_solution_python.ipynb)|Easy| Linked List, Hash Table |  Two Pointers |
-|0155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0155/155_solution_python.ipynb)|Easy| Stack, Heaps | N/A |
+|0155|[Min Stack](https://leetcode.com/problems/min-stack/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0155/155_solution_python.ipynb)|Easy| Stack, Heaps | N/A |
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0160/160_solution_python.ipynb)|Easy| Linked List, Hash Table |  Two Pointers |
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0169/169_solution_python.ipynb)|Easy| Array, Hash Table | Sort |
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0171/171_solution_python.ipynb)|Easy| Array | N/A |
@@ -37,11 +37,35 @@
 |0204|[Count Primes](https://leetcode.com/problems/count-primes/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0204/204_solution_python.ipynb)| Easy | N/A | N/A |
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0206/206_solution_python.ipynb)| Easy | Linked List | Recursion, Two Pointers |
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0217/217_solution_python.ipynb)| Easy | Array, Hash Table | Sort |
+|0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0226/226_solution_python.ipynb)| Easy | Tree | Recursion |
+|0232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0232/232_solution_python.ipynb)| Easy | Stack, Queue | N/A |
+|0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0234/234_solution_python.ipynb)| Easy | Linked List | Two Pointers |
+|0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0235/235_solution_python.ipynb)| Easy | Tree | Recursion |
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0242/242_solution_python.ipynb)| Easy | Array, Hash Table | Sort |
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0268/268_solution_python.ipynb)| Easy | Array, Hash Table | Sort, Bit Manipulation |
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0283/283_solution_python.ipynb)| Easy | Array | Two Pointers |
+|0344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0344/344_solution_python.ipynb)| Easy | Array | Two Pointers |
+|0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0349/349_solution_python.ipynb)| Easy | Array, Hash Table | Sort, Binary Search, Two Pointers |
+|0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0350/350_solution_python.ipynb)| Easy |Array, Hash Table | Sort, Two Pointers |
+|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0387/387_solution_python.ipynb)| Easy | String, Hash Table |  |
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0392/392_solution_python.ipynb)| Easy | String | Two Pointers, Greedy, Recursion, Dynamic Programming, Binary Search |
+|0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0448/448_solution_python.ipynb)| Easy | Array |  |
+|0463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0463/463_solution_python.ipynb)| Easy | Array |  |
+|0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0543/543_solution_python.ipynb)| Easy | Tree | DFS,  |
 
 
-[//]: # " Copy Paste to add a line:
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
-"
+|0559|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0559/559_solution_python.ipynb)| Easy |  |  |
+|0572|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0572/572_solution_python.ipynb)| Easy |  |  |
+|0589|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0589/589_solution_python.ipynb)| Easy |  |  |
+|0590|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0590/590_solution_python.ipynb)| Easy |  |  |
+|0617|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0617/617_solution_python.ipynb)| Easy |  |  |
+|0665|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0665/665_solution_python.ipynb)| Easy |  |  |
+|0669|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0669/669_solution_python.ipynb)| Easy |  |  |
+|0703|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0703/703_solution_python.ipynb)| Easy |  |  |
+|0746|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0746/746_solution_python.ipynb)| Easy |  |  |
+|0771|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0771/771_solution_python.ipynb)| Easy |  |  |
+|0929|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0929/929_solution_python.ipynb)| Easy |  |  |
+
 
 
 
@@ -50,7 +74,9 @@
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
 |0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium | Array | Dynamic Programming |
-
+[//]: # " Copy Paste to add a line:
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+"
 
 
 
