@@ -2,7 +2,39 @@
 <img src='./logo.png'>
 </p>
 
-### Easy Problems
+
+### <a name="content"></a> Content
+
+#### [By difficulty](#difficulty)
+- [Easy](#easy)  
+- [Medium](#medium)  
+- [Hard](#hard)  
+
+#### [By data structure](#data)
+- [Bit and String](#bitstring)  
+- [Array](#array)  
+- [Stack and Queue](#stackqueue)  
+- [Hash Table](#hash)  
+- [Linked list](#linkedlist)  
+- [Heap](#heap)  
+- [Tree](#tree)  
+- [Graph](#graph)  
+- [Union Find](#union)  
+
+#### [By implementation](#implementation)
+- [Search](#search)  
+- [Sort](#sort)  
+- [Greedy](#greedy)  
+- [Divide and Conquer](#divideconquer)  
+- [Recursion](#recursion)  
+- [Dynamic Programming](#dynamic)  
+- [Backtracking](#backtracking)  
+- [Two Pointers and Sliding Windows ](#slidingpointers)  
+
+
+
+### <a name="difficulty"></a> By difficulty
+#### <a name="easy"></a> Easy Problems
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -73,8 +105,9 @@
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1337/1337_solution_python.ipynb)| Easy | Array, Heap | Binary Search |
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1351/1351_solution_python.ipynb)| Easy | Array | Binary Search |
 
+[Back to content](#content)
 
-### Medium Problems
+#### <a name="medium"></a> Medium Problems
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
@@ -102,3 +135,156 @@
 |1011|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1011/1011_solution_python.ipynb)| Easy |  |  |
 |1143|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1143/1143_solution_python.ipynb)| Easy |  |  |
 |0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+
+#### <a name="hard"></a> Hard   
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+
+
+### <a name="data"></a> By data structure
+#### <a name="bitstring"></a> Bit and String
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="array"></a> Array
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="stackqueue"></a> Stack and Queue
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="hash"></a> Hash Table
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="linkedlist"></a> Linked list
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="heap"></a> Heap
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="tree"></a> Tree
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="graph"></a> Graph
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="union"></a> Union Find
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+
+
+### <a name="implementation"></a> By implementation
+#### <a name="search"></a> Search  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="sort"></a> Sort  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="greedy"></a> Greedy
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="divideconquer"></a> Divide and Conquer  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="recursion"></a> Recursion  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="dynamic"></a> Dynamic Programming  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="backtracking"></a> Backtracking  
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
+
+#### <a name="slidingpointers"></a> Two Pointers and Sliding Windows
+
+| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
+|---| ----- | -------- | -----------| ---------------| --------------------------|
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Easy |  |  |
+
+[Back to content](#content)
