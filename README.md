@@ -36,7 +36,7 @@
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
-|0078|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium |  |  |
+|0078|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0094|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0094/94_solution_python.ipynb)| Medium |  |  |
 |0189|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0189/189_solution_python.ipynb)| Medium |  |  |
 |0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium | Array | Dynamic Programming |
@@ -62,7 +62,7 @@
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Hard |  |  |
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Hard :1st_place_medal: |  |  |
 
 [Back to content](#content)  
 <br/>
