@@ -3,13 +3,13 @@
 </p>
 
 
-### <a name="content"></a> Content
+# <a name="content"></a> Content
 
-#### [By difficulty](#difficulty)
+## [By difficulty](#difficulty)
 - [Medium](#medium)  
 - [Hard](#hard)  
 
-#### [By data structure](#data)
+## [By data structure](#data)
 - [Bit, String and Integer](#bitstring)  
 - [Array](#array)  
 - [Stack and Queue](#stackqueue)  
@@ -18,7 +18,7 @@
 - [Heap](#heap)  
 - [Tree](#tree)  
 
-#### [By paradigm and implementation](#implementation)
+## [By paradigm and implementation](#implementation)
 - [Search](#search)  
 - [Sort](#sort)  
 - [Greedy](#greedy)  
@@ -30,7 +30,9 @@
 
 ***
 
-#### <a name="medium"></a> Medium Problems
+# By difficulty
+## <a name="medium"></a> Medium Problems
+
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
@@ -56,7 +58,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="hard"></a> Hard   
+## <a name="hard"></a> Hard   
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -65,8 +67,8 @@
 [Back to content](#content)  
 <br/>
 
-### <a name="data"></a> By data structure
-#### <a name="bitstring"></a> Bit, String and Integer
+# <a name="data"></a> By data structure
+## <a name="bitstring"></a> Bit, String and Integer
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -91,7 +93,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="array"></a> Array
+## <a name="array"></a> Array
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -122,7 +124,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="stackqueue"></a> Stack and Queue
+## <a name="stackqueue"></a> Stack and Queue
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -133,7 +135,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="hash"></a> Hash Table
+## <a name="hash"></a> Hash Table
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -156,7 +158,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="linkedlist"></a> Linked list
+## <a name="linkedlist"></a> Linked list
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -173,7 +175,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="heap"></a> Heap
+## <a name="heap"></a> Heap
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -184,7 +186,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="tree"></a> Tree
+## <a name="tree"></a> Tree
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -215,8 +217,8 @@
 
 ***
 
-### <a name="implementation"></a> By implementation
-#### <a name="search"></a> Search  
+# <a name="implementation"></a> By implementation
+## <a name="search"></a> Search  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -246,7 +248,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="sort"></a> Sort  
+## <a name="sort"></a> Sort  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -260,7 +262,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="greedy"></a> Greedy
+## <a name="greedy"></a> Greedy
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -270,7 +272,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="divideconquer"></a> Divide and Conquer  
+## <a name="divideconquer"></a> Divide and Conquer  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -279,7 +281,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="recursion"></a> Recursion  
+## <a name="recursion"></a> Recursion  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -320,7 +322,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="dynamic"></a> Dynamic Programming  
+## <a name="dynamic"></a> Dynamic Programming  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -336,7 +338,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="backtracking"></a> Backtracking  
+## <a name="backtracking"></a> Backtracking  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -346,7 +348,7 @@
 [Back to content](#content)  
 <br/>
 
-#### <a name="slidingpointers"></a> Two Pointers and Sliding Windows
+## <a name="slidingpointers"></a> Two Pointers and Sliding Windows
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
