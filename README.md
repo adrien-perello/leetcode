@@ -33,11 +33,8 @@
 # By difficulty
 ## <a name="medium"></a> Medium Problems
 
-
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
-|0078|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
-|0094|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0094/94_solution_python.ipynb)| Medium |  |  |
 |0189|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0189/189_solution_python.ipynb)| Medium |  |  |
 |0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium | Array | Dynamic Programming |
 |0230|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0230/230_solution_python.ipynb)| Medium |  |  |
@@ -62,7 +59,7 @@
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Hard :1st_place_medal: |  |  |
+|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Hard :1st_place_medal: |  :2nd_place_medal: |  :second_place_medal:  |
 
 [Back to content](#content)  
 <br/>
@@ -95,6 +92,7 @@
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0003/3_solution_python.ipynb)| Medium | String, Hash Table | Sliding Windows |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0005/5_solution_python.ipynb)| Medium | String | Dynamic Programming |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium | String | Recursion, Dynamic Programming |
+|0078|[Subsets](https://leetcode.com/problems/subsets/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium | Array | Backtracking, Bit Manipulation |
 
 [Back to content](#content)  
 <br/>
@@ -126,6 +124,8 @@
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1351/1351_solution_python.ipynb)| Easy | Array | Binary Search |
 |0046|[Permutations](https://leetcode.com/problems/permutations/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0046/46_solution_python.ipynb)| Medium | Array | Recursion, Backtracking |
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0048/48_solution_python.ipynb)| Medium | Array |  |
+|0078|[Subsets](https://leetcode.com/problems/subsets/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium | Array | Backtracking, Bit Manipulation |
+
 
 [Back to content](#content)  
 <br/>
@@ -217,6 +217,7 @@
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0938/938_solution_python.ipynb)| Easy | Tree | Recursion, DFS, BFS |
 |0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0965/965_solution_python.ipynb)| Easy | Tree | Recursion, DFS, BFS  |
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1022/1022_solution_python.ipynb)| Easy | Tree | Recursion, DFS, BFS, Bit Manipulation  |
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0094/94_solution_python.ipynb)| Medium | Tree | Recursion |
 
 [Back to content](#content)  
 <br/>
@@ -324,6 +325,7 @@
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0002/2_solution_python.ipynb)| Medium | Linked Lists | Recursion, Two Pointers |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium | String | Recursion, Backtracking, Dynamic Programming |
 |0046|[Permutations](https://leetcode.com/problems/permutations/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0046/46_solution_python.ipynb)| Medium | Array | Recursion, Backtracking |
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0094/94_solution_python.ipynb)| Medium | Tree | Recursion |
 
 [Back to content](#content)  
 <br/>
@@ -350,6 +352,7 @@
 |---| ----- | -------- | -----------| ---------------| --------------------------|
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium | String | Recursion, Backtracking, Dynamic Programming |
 |0046|[Permutations](https://leetcode.com/problems/permutations/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0046/46_solution_python.ipynb)| Medium | Array | Recursion, Backtracking |
+|0078|[Subsets](https://leetcode.com/problems/subsets/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium | Array | Backtracking, Bit Manipulation |
 
 [Back to content](#content)  
 <br/>
