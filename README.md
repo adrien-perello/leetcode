@@ -66,7 +66,6 @@
 
 # <a name="data"></a> By data structure
 ## <a name="bitstring"></a> Bit, String and Integer
-###### Easy problems
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
 |---| ----- | -------- | -----------| ---------------| --------------------------|
@@ -84,11 +83,6 @@
 |0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0929/929_solution_python.ipynb)| Easy :3rd_place_medal: | String |  |
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1022/1022_solution_python.ipynb)| Easy :3rd_place_medal: | Tree | Recursion, DFS, BFS, Bit Manipulation  |
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1290/1290_solution_python.ipynb)| Easy :3rd_place_medal: | Linked Lists | Recursion, Bit Manipulation |
-
-###### Medium problems
-
-| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
-|---| ----- | -------- | -----------| ---------------| --------------------------|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0003/3_solution_python.ipynb)| Medium :2nd_place_medal: | String, Hash Table | Sliding Windows |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0005/5_solution_python.ipynb)| Medium :2nd_place_medal: | String | Dynamic Programming |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
