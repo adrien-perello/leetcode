@@ -32,6 +32,8 @@
 
 # By difficulty
 ## <a name="medium"></a> Medium Problems
+:2nd_place_medal:  
+:second_place_medal:  
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
