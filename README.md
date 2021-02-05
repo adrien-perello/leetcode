@@ -35,15 +35,13 @@
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
-|0338|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0338/338_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
-|0347|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0347/347_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0406|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0406/406_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0647|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0647/647_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0695|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0695/695_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0739|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0739/739_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |0763|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0763/763_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 |1011|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1011/1011_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
-|1143|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1143/1143_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
+|1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1143/1143_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
 |0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
 
 [Back to content](#content)  
@@ -81,6 +79,7 @@
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0005/5_solution_python.ipynb)| Medium :2nd_place_medal: | String | Dynamic Programming |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
 |0078|[Subsets](https://leetcode.com/problems/subsets/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Backtracking, Bit Manipulation |
+|0338|[Counting Bits](https://leetcode.com/problems/counting-bits/):lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0338/338_solution_python.ipynb)| Medium :2nd_place_medal: | Binary Number | Bit Manipulation, Dynamic Programming |
 
 [Back to content](#content)  
 <br/>
@@ -114,7 +113,7 @@
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0048/48_solution_python.ipynb)| Medium :2nd_place_medal: | Array |  |
 |0078|[Subsets](https://leetcode.com/problems/subsets/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0078/78_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Backtracking, Bit Manipulation |
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0189/189_solution_python.ipynb)| Medium :2nd_place_medal: | Array |  |
-|0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
+|0198|[House Robber](https://leetcode.com/problems/house-robber/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0238/238_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Two Pointers |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0322/322_solution_python.ipynb)| Medium :2nd_place_medal: | Array, Hash Table | Dynamic Programming, Recursion, Sort |
 
@@ -153,6 +152,7 @@
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0003/3_solution_python.ipynb)| Medium :2nd_place_medal: | String, Hash Table | Sliding Windows |
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0236/236_solution_python.ipynb)| Medium :2nd_place_medal: | Tree, Hash Table | Recursion, DFS |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0322/322_solution_python.ipynb)| Medium :2nd_place_medal: | Array, Hash Table | Dynamic Programming, Recursion, Sort |
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0347/347_solution_python.ipynb)| Medium :2nd_place_medal: | Heaps, Hash Table | Sort |
 
 [Back to content](#content)  
 <br/>
@@ -181,6 +181,7 @@
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0155/155_solution_python.ipynb)|Easy :3rd_place_medal: | Stack, Heaps |  |
 |0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0703/703_solution_python.ipynb)| Easy :3rd_place_medal: | Heap |  |
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/1337/1337_solution_python.ipynb)| Easy :3rd_place_medal: | Array, Heap | Binary Search |
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0347/347_solution_python.ipynb)| Medium :2nd_place_medal: | Heaps, Hash Table | Sort |
 
 [Back to content](#content)  
 <br/>
@@ -263,6 +264,7 @@
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0349/349_solution_python.ipynb)| Easy :3rd_place_medal: | Array, Hash Table | Sort, Binary Search, Two Pointers |
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0350/350_solution_python.ipynb)| Easy :3rd_place_medal: |Array, Hash Table | Sort, Two Pointers |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0322/322_solution_python.ipynb)| Medium :2nd_place_medal: | Array, Hash Table | Dynamic Programming, Recursion, Sort |
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0347/347_solution_python.ipynb)| Medium :2nd_place_medal: | Heaps, Hash Table | Sort |
 
 [Back to content](#content)  
 <br/>
@@ -325,7 +327,7 @@
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Backtracking, Dynamic Programming |
 |0046|[Permutations](https://leetcode.com/problems/permutations/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0046/46_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Recursion, Backtracking |
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0094/94_solution_python.ipynb)| Medium :2nd_place_medal: | Tree | Recursion |
-|0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
+|0198|[House Robber](https://leetcode.com/problems/house-robber/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
 |0230|[Kth Smallest Element in a BST]()| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0230/230_solution_python.ipynb)| Medium :2nd_place_medal: | Tree | Recursion |
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0236/236_solution_python.ipynb)| Medium :2nd_place_medal: | Tree, Hash Table | Recursion, DFS |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0322/322_solution_python.ipynb)| Medium :2nd_place_medal: | Array, Hash Table | Dynamic Programming, Recursion, Sort |
@@ -346,8 +348,10 @@
 |0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0746/746_solution_python.ipynb)| Easy :3rd_place_medal: | Array | Recursion, Dynamic Programming |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0005/5_solution_python.ipynb)| Medium :2nd_place_medal: | String | Dynamic Programming |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0022/22_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
-|0198|[House Robber](https://leetcode.com/problems/house-robber/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb) :lock:| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
+|0198|[House Robber](https://leetcode.com/problems/house-robber/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0198/198_solution_python.ipynb)| Medium :2nd_place_medal: | Array | Recursion, Dynamic Programming |
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/)| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0322/322_solution_python.ipynb)| Medium :2nd_place_medal: | Array, Hash Table | Dynamic Programming, Recursion, Sort |
+|0338|[Counting Bits](https://leetcode.com/problems/counting-bits/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perelloyb/leetcode/blob/main/problems/0338/338_solution_python.ipynb)| Medium :2nd_place_medal: | Binary Number | Bit Manipulation, Dynamic Programming |
+
 
 [Back to content](#content)  
 <br/>
