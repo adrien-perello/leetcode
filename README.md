@@ -3,7 +3,7 @@
 </p>
 
 
-# <a name="content"></a> Content
+# <a name="content"></a> Content (to be edited)
 
 ## [By difficulty](#difficulty)
 - [Medium](#medium)  
