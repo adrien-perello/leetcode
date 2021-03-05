@@ -262,7 +262,7 @@
 
 ---
 
-# <a name=integrals""></a> Integrals
+# <a name="integrals"></a> Integrals
 
 | Symbol                               | Script                                        |
 | ------------------------------------ | --------------------------------------------- |
