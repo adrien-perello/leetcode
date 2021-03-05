@@ -195,7 +195,7 @@
 | $\binom{n}{k}$              | \binom{n}{k}                                    |
 | \*                          | P(A&#124;B) = \frac{P(B&#124;BA)P(A)} {P(B)} \* |
 
-\* will display the following outside a table:  $P(A|B)=\frac{P(B|A)P(A)} {P(B)}$
+\* will display the following outside a table:  \\[ P(A|B)=\frac{P(B|A)P(A)} {P(B)} ||]
 
 
 ---
