@@ -5,10 +5,6 @@
 
 # <a name="content"></a> Content
 
-## [By difficulty](#difficulty)
-- [Medium](#medium)  
-- [Hard](#hard)  
-
 ## [By data structure](#data)
 - [Bit, String and Integer](#bitstring)  
 - [Array](#array)  
@@ -29,26 +25,6 @@
 - [Two Pointers and Sliding Windows ](#slidingpointers)  
 
 ***
-
-# By difficulty
-## <a name="medium"></a> Medium Problems
-
-| # | Title | Solution | Difficulty | Data Structure | Paradigm |
-|---| ----- | -------- | -----------| ---------------| ---------------|
-|1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perello/leetcode/blob/main/problems/1143/1143_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
-|0xxx| Title | Python | Medium :2nd_place_medal: |  |  |
-
-[Back to content](#content)  
-<br/>
-
-## <a name="hard"></a> Hard   
-
-| # | Title | Solution | Difficulty | Data Structure | Paradigm & Implementation |
-|---| ----- | -------- | -----------| ---------------| --------------------------|
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perello/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Hard :1st_place_medal: |  |   |
-
-[Back to content](#content)  
-<br/>
 
 # <a name="data"></a> By data structure
 ## <a name="bitstring"></a> Bit, String and Integer
