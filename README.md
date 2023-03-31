@@ -35,14 +35,8 @@
 
 | # | Title | Solution | Difficulty | Data Structure | Paradigm |
 |---| ----- | -------- | -----------| ---------------| ---------------|
-|0406|[Title]()| Python | Medium :2nd_place_medal: |  |  |
-|0647|[Title]()| Python | Medium :2nd_place_medal: |  |  |
-|0695|[Title]()| Python | Medium :2nd_place_medal: |  |  |
-|0739|[Title]()| Python | Medium :2nd_place_medal: |  |  |
-|0763|[Title]()| Python | Medium :2nd_place_medal: |  |  |
-|1011|[Title]()| Python | Medium :2nd_place_medal: |  |  |
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) :lock:| [Python](https://nbviewer.jupyter.org/github/adrien-perello/leetcode/blob/main/problems/1143/1143_solution_python.ipynb)| Medium :2nd_place_medal: | String | Recursion, Dynamic Programming |
-|0xxx|[Title]()| [Python](https://nbviewer.jupyter.org/github/adrien-perello/leetcode/blob/main/problems/00xx/xx_solution_python.ipynb)| Medium :2nd_place_medal: |  |  |
+|0xxx| Title | Python | Medium :2nd_place_medal: |  |  |
 
 [Back to content](#content)  
 <br/>
